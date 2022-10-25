@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body {
+  background-color: rgb(235, 255, 225);
+  font-size: 17px;
+  font-weight: normal;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 260px;
+}
+
+.nav > div {
+  padding: 15px;
+  font-size: 41px;
+}
+
+.header{
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
+    background-color: rgb(235, 255, 225);
+}
+
+.table {
+  display: table;
+}
+
+.table > div {
+  display: table-row;
+}
+
+.table > div > div {
+    display: table-cell;
+}
+
+.cars {
+    width: 100%;
+    font-size: inherit;
+}
+
+.logo {
+  width: 100%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.company-name {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 23px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.description {
+  font-family:'Times New Roman', Times, serif;
+}
+
+.aboutus {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 19px;
+}
